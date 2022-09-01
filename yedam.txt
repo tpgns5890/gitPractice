@@ -4,13 +4,9 @@
 
 >git init
 
->git add * (모든 파일)
-
 >git config --global user.email "***@***"
 
 >git config --global user.name "****"
-
->git commit -m 'first'
 
 >git remote add origin (올릴 저장소 주소)
 (https://github.com/tpgns5890/gitPractice.git)
@@ -18,4 +14,10 @@
 >git remote -v
 (주소 비교)
 
+>git add * (모든 파일)
+
+>git commit -m 'first'
+
 >git push origin master
+
+*https://backlog.com/git-tutorial/kr/ 사용법
